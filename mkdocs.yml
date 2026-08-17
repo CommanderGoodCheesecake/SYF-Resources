@@ -1,0 +1,54 @@
+site_name: Start Your Future Resources
+site_url: https://github.com/CommanderGoodCheesecake/SYF-Resources/
+theme:
+  name: material
+  palette:
+    - primary: Grey
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.suggest
+
+nav:
+  - Home: index.md
+  - Week 4:
+    - Overview: Week 4/index.md
+    - Getting started with Blender:
+      - The starting cube: Week 4/Getting started with Blender/The Starting Cube.md
+      - Working With Materials: Week 4/Getting started with Blender/Working With Materials.md
+    - Low Poly Fantasy Weapons:
+      - Hammer: Week 4/Low Poly Fantasy Weapons/Hammer.md
+      - Shield: Week 4/Low Poly Fantasy Weapons/Shield.md
+      - Sword: Week 4/Low Poly Fantasy Weapons/Sword.md
+      - Staff: Week 4/Low Poly Fantasy Weapons/Staff.md
+  - Week 5:
+    - Overview: Week 5/index.md
+    - Low Poly Environmental Assets:
+      - Creates and Barrels: Week 5/Low Poly Environmental Assets/Crates and Barrels.md
+      - Rock: Week 5/Low Poly Environmental Assets/Rock.md
+      - Tree: Week 5/Low Poly Environmental Assets/Tree.md
+    - Rendering 3D UI Elements:
+      - In Game Icons for Assets: Week 5/Rendering 3D UI Elements/In Game Icons for Assets.md
+      - Custom Item Boarders: Week 5/Rendering 3D UI Elements/Custom Item Boarders.md
+      - Custom Crosshairs: Week 5/Rendering 3D UI Elements/Custom Crosshair.md
+  - Week 6:
+    - Overview: Week 6/index.md
+  - Week 7:
+    - Overview: Week 7/index.md
+  - Week 8:
+    - Overview: Week 8/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.keys
+  - attr_list
