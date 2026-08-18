@@ -6,16 +6,16 @@ We will be learning how to use Blender and further your knowledge of Unreal Engi
 
 
 - Week 4
-    + Getting Started with Blender
+    <!-- + Getting Started with Blender
         - [The Starting Cube](Week%204/Getting%20started%20with%20Blender/The%20Starting%20Cube.md)
-        - [Working With Materials](Week%204/Getting%20started%20with%20Blender/Working%20With%20Materials.md)
+        - [Working With Materials](Week%204/Getting%20started%20with%20Blender/Working%20With%20Materials.md) -->
     + Low Poly Fantasy Weapons
         - [Hammer](Week%204/Low%20Poly%20Fantasy%20Weapons/Hammer.md)
         - [Shield](Week%204/Low%20Poly%20Fantasy%20Weapons/Shield.md)
         - [Sword](Week%204/Low%20Poly%20Fantasy%20Weapons/Sword.md)
         - [Staff](Week%204/Low%20Poly%20Fantasy%20Weapons/Staff.md)
 
-- Week 5
+<!-- - Week 5
     + Low poly Environmetal Assets
         - [Crate and Barrel](Week%205/Low%20Poly%20Environmetal%20Assets/Creates%20and%20Barrels.md)
         - [Trees](Week%205/Low%20Poly%20Environmetal%20Assets/Trees.md)
@@ -32,4 +32,4 @@ We will be learning how to use Blender and further your knowledge of Unreal Engi
     + 
 
 - Week 8
-    + 
+    +  -->
