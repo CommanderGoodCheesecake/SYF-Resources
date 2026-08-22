@@ -29,16 +29,15 @@ nav:
       - Shield: Week 4/Low Poly Fantasy Weapons/Shield.md
       - Sword: Week 4/Low Poly Fantasy Weapons/Sword.md
       - Staff: Week 4/Low Poly Fantasy Weapons/Staff.md
-  # - Week 5:
-  #   - Overview: Week 5/index.md
-  #   - Low Poly Environmental Assets:
-  #     - Creates and Barrels: Week 5/Low Poly Environmental Assets/Crates and Barrels.md
-  #     - Rock: Week 5/Low Poly Environmental Assets/Rock.md
-  #     - Tree: Week 5/Low Poly Environmental Assets/Tree.md
-  #   - Rendering 3D UI Elements:
-  #     - In Game Icons for Assets: Week 5/Rendering 3D UI Elements/In Game Icons for Assets.md
-  #     - Custom Item Boarders: Week 5/Rendering 3D UI Elements/Custom Item Boarders.md
-  #     - Custom Crosshairs: Week 5/Rendering 3D UI Elements/Custom Crosshair.md
+  - Week 5:
+    - Overview: Week 5/index.md
+    - Low Poly Tank:
+      - The Tank: Week 5/Low Poly Tank/The Tank.md
+      - The Shell: Week 5/Low Poly Tank/The Shell.md
+    - Rendering 3D UI Elements:
+      - In Game Icons for Assets: Week 5/Rendering 3D UI Elements/In Game Icons for Assets.md
+      - Custom Item Boarders: Week 5/Rendering 3D UI Elements/Custom Item Boarders.md
+      - Custom Crosshairs: Week 5/Rendering 3D UI Elements/Custom Crosshair.md
   # - Week 6:
   #   - Overview: Week 6/index.md
   # - Week 7:
