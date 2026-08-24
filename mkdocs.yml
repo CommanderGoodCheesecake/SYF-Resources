@@ -34,10 +34,14 @@ nav:
     - Low Poly Tank:
       - The Tank: Week 5/Low Poly Tank/The Tank.md
       - The Shell: Week 5/Low Poly Tank/The Shell.md
-    - Rendering 3D UI Elements:
-      - In Game Icons for Assets: Week 5/Rendering 3D UI Elements/In Game Icons for Assets.md
-      - Custom Item Boarders: Week 5/Rendering 3D UI Elements/Custom Item Boarders.md
-      - Custom Crosshairs: Week 5/Rendering 3D UI Elements/Custom Crosshair.md
+    # - Rendering 3D UI Elements:
+    #   - In Game Icons for Assets: Week 5/Rendering 3D UI Elements/In Game Icons for Assets.md
+    #   - Custom Item Boarders: Week 5/Rendering 3D UI Elements/Custom Item Boarders.md
+    #   - Custom Crosshairs: Week 5/Rendering 3D UI Elements/Custom Crosshair.md
+    - Jumping Into Unreal:
+      - Project Setup: Week 5/Jumping Into Unreal/Project Setup.md
+      - Tank Movement: Week 5/Jumping Into Unreal/Tank Movement.md
+      - Tank Turret Rotation: Week 5/Jumping Into Unreal/Tank Turret Rotation.md
   # - Week 6:
   #   - Overview: Week 6/index.md
   # - Week 7:

@@ -15,11 +15,11 @@ Add a Cylinder (++"add"++ > Mesh > Cylinder). In the popup window on the bottom 
 
 ![](<../images/Shell_Modeling%20(2).png>)
 
-Enter edit mode with ++tab++ and switch to edge select (++2++). Using **Loop Select**, select the edge loop at the base of the shell (setting Delimit to **Outer Corners** in the popup window).
+Enter edit mode with ++tab++ and switch to edge select ++2++. Using **Loop Select**, select the edge loop at the base of the shell (setting Delimit to **Outer Corners** in the popup window).
 
 ![](<../images/Shell_Modeling%20(3).png>)
 
-Bevel this loop (++ctrl++ + ++b++) with a small Width of `0.05m` to soften the rear edge of the casing.
+Bevel this loop ++ctrl++ + ++b++ with a small Width of `0.05m` to soften the rear edge of the casing.
 
 ![](<../images/Shell_Modeling%20(4).png>)
 

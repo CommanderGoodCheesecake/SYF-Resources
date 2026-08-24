@@ -19,10 +19,14 @@ We will be learning how to use Blender and further your knowledge of Unreal Engi
     + Low Poly Tank
         - [The Tank](Week%205/Low%20Poly%20Tank/The%20Tank.md)
         - [The Shell](Week%205/Low%20Poly%20Tank/The%20Shell.md)
-    + Rendering 3D UI Elements
+    <!-- + Rendering 3D UI Elements
         - [In Game Icons for Assets](Week%205/Rendering%203D%20UI%20Elements/In%20game%20Icons%20for%20assets.md)
         - [Custom Crosshair](Week%205/Rendering%203D%20UI%20Elements/Custom%20Item%20Boarders.md)
-        - [Custom Crosshair](Week%205/Rendering%203D%20UI%20Elements/Custom%20Crosshair.md)
+        - [Custom Crosshair](Week%205/Rendering%203D%20UI%20Elements/Custom%20Crosshair.md) -->
+    + Jumping Into Unreal
+        - [Project Setup](Week%205/Jumping%20Into%20Unreal/Project%20Setup.md)
+        - [Tank Movement](Week%205/Jumping%20Into%20Unreal/Tank%20Movement.md)
+        - [Tank Turret Rotation](Week%205/Jumping%20Into%20Unreal/Tank%20Turret%20Rotation.md)
 
 <!-- - Week 6
     + 
