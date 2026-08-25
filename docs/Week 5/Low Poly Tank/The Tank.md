@@ -41,6 +41,9 @@ Now for the armoured look of the hull. Press ++ctrl++ + ++b++ to **Bevel** the w
 
 Switch to edge select (++2++) and use **Loop Select** to select the loop running around the top of the hull, using the Delimit dropdown in the popup window to select by **Outer Corners**.
 
+!!! Note
+    Delimit controls where Blender is allowed to stop a loop select. Setting it to Outer Corners tells Blender to only follow the loop around the sharp, angular edges made by the bevel, rather than cutting across the new faceted corners, which is what would otherwise happen on a shape like this.
+
 ![](<../images/Tank_Modeling%20(7).png>)
 
 Bevel this loop again (++ctrl++ + ++b++), this time with a smaller Width of `0.25m`. This adds an extra facet just below the top face, giving the hull more of a layered, armoured silhouette.
